@@ -1,0 +1,1 @@
+Conversor de temperaturas Celsius para Fahrenheit/Kelvin sem usar loop.

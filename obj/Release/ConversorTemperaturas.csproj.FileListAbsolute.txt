@@ -1,0 +1,8 @@
+C:\Curso\ConversorTemperaturas\ConversorTemperaturas\bin\Release\ConversorTemperaturas.exe.config
+C:\Curso\ConversorTemperaturas\ConversorTemperaturas\bin\Release\ConversorTemperaturas.exe
+C:\Curso\ConversorTemperaturas\ConversorTemperaturas\bin\Release\ConversorTemperaturas.pdb
+C:\Curso\ConversorTemperaturas\ConversorTemperaturas\obj\Release\ConversorTemperaturas.csproj.AssemblyReference.cache
+C:\Curso\ConversorTemperaturas\ConversorTemperaturas\obj\Release\ConversorTemperaturas.csproj.SuggestedBindingRedirects.cache
+C:\Curso\ConversorTemperaturas\ConversorTemperaturas\obj\Release\ConversorTemperaturas.csproj.CoreCompileInputs.cache
+C:\Curso\ConversorTemperaturas\ConversorTemperaturas\obj\Release\ConversorTemperaturas.exe
+C:\Curso\ConversorTemperaturas\ConversorTemperaturas\obj\Release\ConversorTemperaturas.pdb
